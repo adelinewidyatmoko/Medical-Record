@@ -1,6 +1,4 @@
-<?php 
-require_once "insert.php";
-?>
+
 
 <!DOCTYPE html>
 <html lang="en">
